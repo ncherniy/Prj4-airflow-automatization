@@ -24,7 +24,7 @@ default_args = {
 }
 
 chat_id = 1038448919
-bot_token = '7567701918:AAHq1r9f4GvJjn1KYUIawYY__FYx6PhEH1E'
+bot_token = 'bot token'
 
 def send_message(context):
     date = context['ds']
